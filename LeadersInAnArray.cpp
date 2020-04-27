@@ -1,4 +1,5 @@
 //https://practice.geeksforgeeks.org/problems/leaders-in-an-array/0
+//https://youtu.be/LFpfw1tMnrg 
 
 #include <iostream>
 #include <bits/stdc++.h>
